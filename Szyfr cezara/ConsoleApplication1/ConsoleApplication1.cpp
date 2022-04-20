@@ -1,4 +1,4 @@
-﻿//algorytm.edu.pl
+﻿
 #include<iostream>
 
 using namespace std;
